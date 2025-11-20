@@ -50,9 +50,9 @@ Mi GitHub contiene proyectos universitarios y personales — cada archivo, en ca
 ---
 
 ## 📚 Actualmente trabajando en:
-- Mejorar mis prácticas en diseño de **APIs REST con Spring Boot**  
-- Proyectos de **análisis de datos** con Python  
-- Integrar despliegues en **VMs y Azure**  
+- Proyectos de **APIs REST** con Java
+- Proyectos de **análisis de datos** y uso **pipelines** con Python  
+- Testeo intensivo en **contenedores** con Docker
 - Construcción de proyectos universitarios con enfoque profesional
 
 ---
