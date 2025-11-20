@@ -15,7 +15,7 @@ Realicé programas **Trainee y Junior** en:
 
 Vivo en **Chile**, hablo **español (nativo)**, **inglés** y **francés**.
 
-Mi GitHub contiene proyectos universitarios y personales — mi objetivo es crear software limpio, mantenible y escalable.
+Mi GitHub contiene proyectos universitarios y personales — cada archivo, en cada carpeta, en cada programa; pretende ser útil por si solo.
 
 ---
 
