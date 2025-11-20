@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 Sobre mí
 Soy egresado en **Ciencias de los Alimentos e Ingeniería**, y actualmente estudio **Programación (DuocUC)** con enfoque en **Backend**.  
-Estoy en programas **trainee** en:
-- 🐍 **Python** para análisis de datos  
-- ☕ **Java + Spring Boot** para desarrollo backend  
+Realicé programas **Trainee y Junior** en:
+- 🐍 **Python** para análisis de datos y API  
+- ☕ **Java** para desarrollo web y backend  
 
 Vivo en **Chile**, hablo **español (nativo)**, **inglés** y **francés**.
 
