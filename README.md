@@ -1,4 +1,4 @@
-# soy **Ariel**, algunos me dicen Nicolás.
+# Soy **Ariel** , algunos me dicen Nicolás.
 ### Backend Developer en formación | Java · Python · SQL
 
 [![GitHub followers](https://img.shields.io/github/followers/arielncc?style=flat&color=blue)](https://github.com/arielncc)  
